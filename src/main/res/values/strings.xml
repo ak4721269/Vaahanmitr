@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Vaahan mitr</string>
+    <string name="fetch_vehicle_data">Fetch vehicle data</string>
+</resources>
